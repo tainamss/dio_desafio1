@@ -1,0 +1,13 @@
+README.md
+setup.py
+acoes/__init__.py
+acoes/clientes.py
+acoes/contas.py
+acoes/transacoes.py
+meu_pacote_banco.egg-info/PKG-INFO
+meu_pacote_banco.egg-info/SOURCES.txt
+meu_pacote_banco.egg-info/dependency_links.txt
+meu_pacote_banco.egg-info/top_level.txt
+plots/__init__.py
+plots/historico.py
+plots/interface.py
